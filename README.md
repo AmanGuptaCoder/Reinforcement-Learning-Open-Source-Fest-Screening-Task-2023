@@ -28,11 +28,11 @@ https://github.com/AmanGuptaCoder/vowpal_wabbit <br>
 ### Tasks
 1. Build Lua<br><br>Output (1):<br><br><img width="401" alt="Screenshot 2023-03-29 at 5 50 28 PM" src="lua.jpg">
 
-2. Create Lua object in C++. Print “[your name] says hello” from within Lua. Here's the file created: [createLuaObject.cpp](https://github.com/rum1887/RLOSF23-Screening-Exercise/blob/main/createLuaObject.cpp)<br><br>Output (1):<br><br><img width="1430" alt="Screenshot 2023-04-02 at 1 53 58 PM" src="lua1.jpg">
+2. Create Lua object in C++. Print “[your name] says hello” from within Lua. Here's the file created: [createLuaObject.cpp]<br><br>Output (1):<br><br><img width="1430" alt="Screenshot 2023-04-02 at 1 53 58 PM" src="lua1.jpg">
 
-3. Pass an int variable to Lua and print out the value in Lua. Here's the file created: [passingDataToLua.cpp](https://github.com/rum1887/RLOSF23-Screening-Exercise/blob/main/passingDataToLua.cpp)<br><br>Output (1):<br><br><img width="1430" alt="Screenshot 2023-04-02 at 1 56 07 PM" src="lua2.jpg">
+3. Pass an int variable to Lua and print out the value in Lua. Here's the file created: [passingDataToLua.cpp]<br><br>Output (1):<br><br><img width="1430" alt="Screenshot 2023-04-02 at 1 56 07 PM" src="lua2.jpg">
 
-4. Change value of an int variable in Lua and print it out in C++. Here's the file created: [changeDataLua.cpp](https://github.com/rum1887/RLOSF23-Screening-Exercise/blob/main/changeDataLua.cpp)<br><br>Output (1):<br><br><img width="1428" alt="Screenshot 2023-04-02 at 1 52 16 PM" src="lua3.jpg">
+4. Change value of an int variable in Lua and print it out in C++. Here's the file created: [changeDataLua.cpp]<br><br>Output (1):<br><br><img width="1428" alt="Screenshot 2023-04-02 at 1 52 16 PM" src="lua3.jpg">
 
 ### Instructions to build and run<br>
 1. Clone the repository <br> ```git clone https://github.com/AmanGuptaCoder/Reinforcement-Learning-Open-Source-Fest-Screening-Task-2023```
